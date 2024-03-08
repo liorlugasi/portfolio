@@ -10,7 +10,7 @@ Hi,
    a. From Intellij IDE - navigate to facingapi direcory, find FacingapiApplication class, click on the "play" button.
       Else, build and run by maven or any other tool.
 
-4. Run the manager app as spring boot app using you favorite IDE:
+4. Run the manager app as spring boot app using your favorite IDE:
    a. From Intellij IDE - navigate to manager direcory, find ManagerApplication class, click on the "play" button.
       Else, build and run by maven or other tool.
 
