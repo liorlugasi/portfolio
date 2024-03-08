@@ -17,7 +17,7 @@ Hi,
 5. In the attached Postman collection, run the requests 
    a. Create purchase - Handle a “buy” request and publish the data object to Kafka.
    b. Get user purchases - Handle a “getAllUserBuys” and send a GET request to Customer Management service
-      and present the response
+      and present the response.
    
 
 For any issues please let me know.
