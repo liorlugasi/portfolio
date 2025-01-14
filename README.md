@@ -12,4 +12,4 @@ The portfolio conatains the projects:
       a patch to prevent prototype pollution, enhancing security for applications relying on this library.
    - *Technologies*: JavaScript, Node.js, npm.
    - *Repository*: [tough-cookie](tough-cookie/)
-   - *Additional details*:https://github.com/liorlugasi/portfolio/blob/main/tough-cookie/README-CVE-2023-26136_Fix.md.
+   - *Additional details*: https://github.com/liorlugasi/portfolio/blob/main/tough-cookie/README-CVE-2023-26136_Fix.md.
