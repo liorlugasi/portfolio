@@ -11,5 +11,4 @@ The portfolio conatains the projects:
    - *Description*: Addressed a critical vulnerability (CVE-2023-26136) in the tough-cookie library by implementing 
       a patch to prevent prototype pollution, enhancing security for applications relying on this library.
    - *Technologies*: JavaScript, Node.js, npm.
-   - *Repository*: [tough-cookie](tough-cookie/)
    - *Additional details*: [README-CVE-2023-26136_Fix](https://github.com/liorlugasi/portfolio/blob/main/tough-cookie/README-CVE-2023-26136_Fix.md).
